@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AcadNet**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **cloud computing**
 
 - 👨‍💻 All of my projects are available at [https://paudelnishan.com.np/](https://paudelnishan.com.np/)
 
