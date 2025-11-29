@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nishan Paudel</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
 
-- 🔭 I’m currently working on **AcadNet**
+- 🔭 I’m currently working on **Websites Development**
 
 - 🌱 I’m currently learning **cloud computing**
-
-- 👨‍💻 All of my projects are available at [https://paudelnishan.com.np/](https://paudelnishan.com.np/)
 
 - 📫 How to reach me **neezpau04@gmail.com**
 
