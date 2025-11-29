@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishan Paudel</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Websites Development**
+- 🔭 I’m currently working on **Know Your Candidate**
 
 - 🌱 I’m currently learning **cloud computing**
 
