@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Know Your Candidate**
 
-- 🌱 I’m currently learning **cloud computing**
+- 🌱 I’m currently learning **Cloud computing**
 
 - 📫 How to reach me **neezpau04@gmail.com**
 
