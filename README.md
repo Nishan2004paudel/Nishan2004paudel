@@ -5,8 +5,8 @@
 
 ### 👨‍💻 About Me
 - 🎓 Undergraduate student at **Nepal College of Information Technology (NCIT)**
-- 🔭 Currently developing **Know Your Candidate** — a client-focused solution aimed at delivering reliable, data-driven insights
-- 🌱 Actively learning and exploring **Cloud Computing** and scalable system design
+- 🔭 Developed **Know Your Candidate** - a client-focused solution aimed at delivering reliable, data-driven insights
+- 🌱 Actively learning and exploring **Cloud Computing and Dotnet** and scalable system design
 - 🧠 Deeply interested in **AI/ML research** and **Cybersecurity-related domains**
 - 🤝 Open to **small-scale project collaborations** and freelance opportunities
 
