@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nishan Paudel</h1>
-<h3 align="center">Undergraduate Software Engineering Student | AI/ML & Cloud Enthusiast from Nepal 🇳🇵</h3>
+<h3 align="center">Software Engineer from Nepal 🇳🇵</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Undergraduate student at **Nepal College of Information Technology (NCIT)**
+- 🎓 Bachelor of Engineering in **Software Engineering** at **Nepal College of Information Technology (NCIT)**
 - 🔭 Developed **Know Your Candidate** - a client-focused solution aimed at delivering reliable, data-driven insights
-- 🌱 Actively learning and exploring **Cloud Computing and Dotnet** and scalable system design
-- 🧠 Deeply interested in **AI/ML research** and **Cybersecurity-related domains**
+- 🌱 Actively learning and exploring **Cloud Computing** and **AI/ML**
+- 🧩 Learning **.NET development** with **C#, ASP.NET Core, Entity Framework Core, and Web API**
+- 🧠 Deeply interested in **modern software architecture**, scalable systems, and practical software engineering
+- 🛠️ Focused on applying the theoretical knowledge from my degree to practical applications
 - 🤝 Open to **small-scale project collaborations** and freelance opportunities
 
 ---
@@ -34,6 +36,15 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
@@ -70,6 +81,7 @@
 - Building **production-ready client applications**
 - Learning **cloud-native architectures**
 - Exploring **AI/ML research problems** and **cybersecurity fundamentals**
+- Applying theoretical knowledge from my degree to practical software applications
 - Writing clean, scalable, and well-documented code
 
 ---
